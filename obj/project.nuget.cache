@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lyBZNnPikQ/cEmQk+d+Az4GRHySyn6RAUl1WG3mTE+YrwK566K3VYPMWjCLLBxdbskqp1+ogEU4RH7f0LeS4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Андрей\\source\\repos\\Dz_013\\Dz_013\\Dz_013.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
+    "C:\\Users\\Андрей\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
